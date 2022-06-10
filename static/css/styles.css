@@ -1,0 +1,10 @@
+*{
+    list-style-type:none;
+}
+ul.errorlist {
+    display: none;
+}
+.Forms imput{
+    outline:none;
+    width: 100%;
+}
