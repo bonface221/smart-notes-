@@ -74,7 +74,7 @@ Find all the versions used in the pipfile.lock :
 
 ## Authors
 
-* **Bonface221**  - [boninsta](https://github.com/bonface221/insta-clone)
+* **Bonface221**  - [bonface221](https://github.com/bonface221/insta-clone)
 
 
 ## License
